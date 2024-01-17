@@ -57,4 +57,3 @@ pretty quickly!
   using the `dotnet` command line tool, say which one)
 * Duet AI will not get it right all the time (eg. it think default port number
   is 5000 when it's 5074)
-
