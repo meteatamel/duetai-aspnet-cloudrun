@@ -1,4 +1,4 @@
-# Duet AI: Create and deploy a new ASP.NET web app to Cloud Run with Duet AI
+# Duet AI: Create and deploy a new ASP.NET web app to Cloud Run
 
 This is a walkthrough to create a new ASP.NET web app. add a new route to it,
 and then deploy to Cloud Run all with the help of Duet AI.
